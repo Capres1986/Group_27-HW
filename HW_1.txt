@@ -1,6 +1,0 @@
-
-curl "http://162.55.220.72:5005/get_method?name=Maks_Piven&age=35"     
-
-
-["Maks_Piven","35"]
-maksimpiven@Air-Maksim ~ % 
